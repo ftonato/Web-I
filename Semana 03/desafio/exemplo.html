@@ -7,11 +7,6 @@
 
 	<style>
 		/* Isso é um comentário CSS, utilizado para descrever algo que está sendo criado */
-		* {
-			/* Essa é uma regra atribuída a todos os componentes da nossa página */
-			margin: 0;
-			padding: 0;
-		}
 
 		body {
 			/* Aqui a nossa regra define a largura, margens e bordas da nossa página */
@@ -34,16 +29,16 @@
 		/* Definindo as regras do rodapé da página */
 		.footer {
 			/* Utilizando uma CLASS para definir uma regra do CSS */
-			height: 30px;
 			margin: 0 auto;
-			padding-top: 20px;
-			width: 90%;
+			width: 98%;
+			padding-top: 5px;
 		}
 
 		#footer-header {
 			/* Utilizando um ID para definir uma regra do CSS */
-			color: red;
+			color: tomato;
 			text-align: right;
+			margin: 0;
 		}
 	</style>
 </head>
@@ -55,9 +50,10 @@
 	<p>O primeiro parágrafo!</p>
 
 
-	<div class="footer">
+	<!-- A nossa tag "footer" é uma representação semântica de um rodapé -->
+	<footer class="footer">
 		<h3 id="footer-header">Título do rodapé com regra de CSS</h3>
-	</div>
+	</footer>
 
 </body>
 </html>

@@ -17,6 +17,6 @@ Navegadores recomendados:
 
 - A página deverá conter um título, um subtítulo, e dois parágrafos.
 
-**Dica:** Para conseguir fazer as edições no arquivo, é preciso abrir o arquivo com um editor de texto (recomendo o [Sublime Text](https://www.sublimetext.com/)).
+**Dica:** Para conseguir fazer as edições no arquivo, é preciso abrir o arquivo com um editor de texto ([Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), [VSCode](https://code.visualstudio.com/)).
 
 > Vale lembrar que o desafio tem por finalidade incentivar o aprendizado, visto que a prática ajuda a fortalecer o conteúdo estudado!
